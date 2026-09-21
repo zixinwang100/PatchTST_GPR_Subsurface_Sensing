@@ -74,7 +74,7 @@ used in the study:
 -  **PatchTST:** The proposed patch time series transformer model.
 
 The corresponding model files are located within the `Model/` directories
-of these configurations.
+of each material configuration.
 
 ## Synthetic Data Generation
 
