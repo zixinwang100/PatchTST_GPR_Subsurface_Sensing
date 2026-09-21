@@ -65,15 +65,13 @@ configurations investigated in the study:
 The repository provides implementations of the machine-learning models
 used in the study:
 
--   **1D CNN:** Convolutional neural network baseline.
--   **DANN:** Domain-adaptation baseline trained using labeled synthetic
-    source-domain data and unlabeled real target-domain data for
-    adversarial domain alignment.
--   **LSTM:** Recurrent neural network baseline used for the laboratory
-    single-layer material.
--   **PatchTST:** Transformer-based model trained exclusively on
-    synthetic data for zero-shot transfer to real-world GPR
-    measurements.
+- **1D CNN:** One-dimensional convolutional neural network baseline.
+
+- **DANN:** Domain adversarial neural network baseline.
+
+- **LSTM:** Long short-term memory baseline.
+
+-  **PatchTST:** The proposed patch time series transformer model.
 
 ## Synthetic Data Generation
 
