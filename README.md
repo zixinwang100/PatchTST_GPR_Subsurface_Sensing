@@ -73,6 +73,9 @@ used in the study:
 
 -  **PatchTST:** The proposed patch time series transformer model.
 
+The corresponding model files are located within the `Model/` directories
+of these configurations.
+
 ## Synthetic Data Generation
 
 Synthetic GPR data are generated using the finite-difference time-domain
